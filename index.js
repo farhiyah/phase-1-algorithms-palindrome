@@ -10,9 +10,11 @@ function isPalindrome(word) {
 }
 console.log(isPalindrome("ab"));
 
-
 /* 
   Add your pseudocode here
+  initialize a vartiable called str 
+  call the split methodon the string
+  initialize a variable called strReverse
 */
 
 
